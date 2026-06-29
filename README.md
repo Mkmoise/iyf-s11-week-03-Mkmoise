@@ -1,4 +1,4 @@
-# Mkmoise.github.io-
+# Mkmoise
 <h1 align="center">Hi 👋, I'm MOISE NYARUGABO</h1>
 <h3 align="center">An aspiring software developer and cybersecurity enthusiast from Kenya</h3>
 
